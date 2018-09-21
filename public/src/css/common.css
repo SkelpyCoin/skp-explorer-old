@@ -1122,3 +1122,18 @@ ul.dropdown-menu{
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
     background-color: rgba(34, 35, 47, 0.45);
 }
+
+#particles-js {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background:#fff;
+}
+
+.dropdown-menu a{
+	
+  color: white !important;
+
+}
