@@ -1137,3 +1137,9 @@ ul.dropdown-menu{
   color: white !important;
 
 }
+
+.dropdown-menu>li>a {
+	
+	color: white !important;
+
+}
