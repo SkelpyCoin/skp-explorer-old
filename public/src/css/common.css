@@ -582,15 +582,15 @@ a:hover {
 }
 
 .txvalues-default {
-  background-color: #5f696e;
+  background-color: #313131;
 }
 
 .txvalues-success {
-  background-color: #7CB342;
+  background-color: #4b6cde;
 }
 
 .txvalues-danger {
-  background-color: #AC0015;
+  background-color: #f55555;
 }
 
 .txvalues-normal {
