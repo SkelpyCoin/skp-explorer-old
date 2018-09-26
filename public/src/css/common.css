@@ -1144,3 +1144,19 @@ ul.dropdown-menu{
 	color: white !important;
 
 }
+
+.h1, h1 {
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+    text-transform: uppercase;
+    background: #062489;
+    color: white;
+}
+
