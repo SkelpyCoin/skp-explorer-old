@@ -242,7 +242,7 @@ a:hover {
     margin-bottom: 1px;
   }
   .navbar-default .navbar-nav .open .dropdown-menu>li>a {
-    background-color: white;
+    background-color: #062489;
     color: white;
   }
   .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
